@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#E69C2F</color>
+    <color name="colorsignup">#E69C2F</color>
+    <color name="colornav">#E69C2F</color>
+    <color name="colorplumb">#FFEBA02E</color>
+    <color name="colorsign">#FFEBA02E</color>
+    <color name="colorservierhome">#FFEBA02E</color>
+    <color name="coloreditdetails">#FFEBA02E</color>
+    <color name="colorheader">#FFEBA02E</color>
+
+
+
+</resources>
+
